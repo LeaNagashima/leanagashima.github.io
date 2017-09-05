@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lea's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LeaNagashima/leanagashima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
